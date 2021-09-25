@@ -3,7 +3,7 @@ using System.Runtime.InteropServices;
 
 namespace ConsoleWindowChanger
 {
-    public class Change
+    public class ChangeConsoleWindow
     {
         #region Fit Console Window
 
